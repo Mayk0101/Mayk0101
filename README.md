@@ -44,7 +44,7 @@
 
 ###
 
-![snake gif](https://github.com/Mayk0101/Mayk0101/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
