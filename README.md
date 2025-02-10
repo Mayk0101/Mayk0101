@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mayk0101/Mayk0101/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mayk0101/Mayk0101/output/cobrinha.svg" alt="Snake animation" />
 
 ###
 
