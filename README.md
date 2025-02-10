@@ -2,44 +2,49 @@
   <img height="150" src="https://ik.imagekit.io/2cs1xx8pd/artwork.gif" />
 </div>
 
-# Olá! Eu sou o Mayk 👋
+# Olá, eu sou o Mayk 👋
+
+Bem-vindo ao meu perfil! 😄<br>
+Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Sempre buscando aprender algo novo e criar projetos inovadores. 
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎮 Tenho 20 anos e estou imerso no desenvolvimento de um jogo incrível.<br>
-💻 Sou apaixonado por programação, tecnologia e sempre em busca de novos conhecimentos. Meu objetivo é criar soluções inovadoras e impactantes, aproveitando ao máximo as ferramentas e recursos que o mundo da tecnologia tem a oferecer.
+🎮 Tenho 20 anos e estou mergulhado no desenvolvimento de um jogo incrível. Meu foco é sempre aprimorar minhas habilidades e aplicar novas tecnologias para criar experiências imersivas.<br> 
+💻 Sou entusiasta de **programação**, **inteligência artificial** e **realidade virtual**, e estou constantemente explorando novas formas de integrar essas tecnologias aos meus projetos.
 
 ---
 
 ## 🛠 Tecnologias e Linguagens
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
+Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvimento:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" alt="Unreal Engine" />
 </div>
 
 ---
 
 ## 📊 Minhas Estatísticas
 
+Abaixo estão algumas das minhas estatísticas para vocês acompanharem meu progresso e evolução:
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🔗 Redes Sociais
+## 🔗 Me encontre nas Redes Sociais
 
-<div align="left">
+Vamos nos conectar! Aqui estão meus links para redes sociais onde compartilho mais sobre meus projetos e minha jornada:
+
+<div align="center">
   <a href="https://www.instagram.com/MaykViana22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
@@ -56,4 +61,3 @@
 <div align="center">
   <img height="300" src="https://ik.imagekit.io/2cs1xx8pd/ant%201.gif?updatedAt=1730913415231" />
 </div>
-
