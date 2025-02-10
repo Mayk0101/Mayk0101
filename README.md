@@ -12,7 +12,7 @@ Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Semp
 ## 👨‍💻 Sobre mim
 
 🎮 Tenho 20 anos e estou mergulhado no desenvolvimento de um jogo incrível. Meu foco é sempre aprimorar minhas habilidades e aplicar novas tecnologias para criar experiências imersivas.<br> 
-💻 Sou entusiasta de **programação**, **inteligência artificial** e **realidade virtual**, e estou constantemente explorando novas formas de integrar essas tecnologias aos meus projetos.
+📚 Cursando: faculdade de Análise e Desenvolvimento de Sistemas, meu foco é sempre aprimorar minhas habilidades.<br>
 
 ---
 
