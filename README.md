@@ -18,8 +18,6 @@ Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Semp
 
 ## 🛠 Tecnologias e Linguagens
 
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvimento:
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -32,8 +30,6 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia de desenvolvime
 
 ## 📊 Minhas Estatísticas
 
-Abaixo estão algumas das minhas estatísticas para vocês acompanharem meu progresso e evolução:
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats" />
 </div>
@@ -41,8 +37,6 @@ Abaixo estão algumas das minhas estatísticas para vocês acompanharem meu prog
 ---
 
 ## 🔗 Me encontre nas Redes Sociais
-
-Vamos nos conectar! Aqui estão meus links para redes sociais onde compartilho mais sobre meus projetos e minha jornada:
 
 <div align="center">
   <a href="https://www.instagram.com/MaykViana22" target="_blank">
