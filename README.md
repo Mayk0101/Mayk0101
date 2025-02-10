@@ -1,73 +1,59 @@
 <div align="center">
-  <img height="150" src="https://ik.imagekit.io/2cs1xx8pd/artwork.gif"  />
+  <img height="150" src="https://ik.imagekit.io/2cs1xx8pd/artwork.gif" />
 </div>
 
-###
+# Olá! Eu sou o Mayk 👋
 
-<h1 align="center">Olá! Eu sou o Mayk</h1>
+---
 
-###
+## 👨‍💻 Sobre mim
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+🎮 Tenho 20 anos e estou imerso no desenvolvimento de um jogo incrível.<br>
+💻 Sou apaixonado por programação, tecnologia e sempre em busca de novos conhecimentos. Meu objetivo é criar soluções inovadoras e impactantes, aproveitando ao máximo as ferramentas e recursos que o mundo da tecnologia tem a oferecer.
 
-###
+---
 
-<p align="left">🎮 Tenho 20 anos e atualmente estou trabalhando no desenvolvimento de um jogo.<br>💻 Apaixonado por programação e tecnologia, sempre buscando aprender mais e criar projetos inovadores.</p>
-
-###
-
-<h3 align="left">🛠 Tecnologias e Linguagens</h3>
-
-###
+## 🛠 Tecnologias e Linguagens
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
 </div>
 
-###
+---
 
-<h3 align="left">✔   Minhas Estatísticas</h3>
-
-###
+## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+---
 
-
-
-###
-
-<h3 align="left">🔗 Rede social</h3>
-
-###
+## 🔗 Redes Sociais
 
 <div align="left">
   <a href="https://www.instagram.com/MaykViana22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
-  <a href="douglascardoso3010@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:douglascardoso3010@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
   <a href="https://discord.gg/9XXzfrMBs6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="300" src="https://ik.imagekit.io/2cs1xx8pd/ant%201.gif?updatedAt=1730913415231"  />
+  <img height="300" src="https://ik.imagekit.io/2cs1xx8pd/ant%201.gif?updatedAt=1730913415231" />
 </div>
 
-###
