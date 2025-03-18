@@ -35,7 +35,7 @@ Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Semp
 ## 📊 Minhas Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<!-- Linguagens Mais Utilizadas -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayk0101&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
@@ -46,7 +46,6 @@ style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2p
 />
 </a>
 
-<!-- Distribuição de Repositórios por Linguagem -->
 <a href="https://github.com/Mayk0101">
 <img
 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayk0101&theme=transparent&locale=pt-br"
