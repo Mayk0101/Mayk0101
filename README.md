@@ -1,7 +1,3 @@
-melhore essse meu arquivo README.md
-
-eu quero adicionar mas  🛠 Tecnologias e Linguagens
-adicionando qltlite, c#, c++, node.js
 <div align="center">
   <img height="150" src="https://ik.imagekit.io/2cs1xx8pd/artwork.gif" />
 </div>
