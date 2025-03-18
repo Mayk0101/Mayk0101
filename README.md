@@ -35,27 +35,17 @@ Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Semp
 ## 📊 Minhas Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayk0101&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
-alt="Linguagens Mais Utilizadas"
-width="450"
-height="180"
-style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #B8860B;"
-/>
-</a>
-
 <a href="https://github.com/Mayk0101">
+<div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 450px;">
 <img
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayk0101&theme=transparent&locale=pt-br"
-alt="Distribuição de Repositórios por Linguagem"
-width="450"
+src="https://github-readme-stats.vercel.app/api?username=Mayk0101&show_icons=true&title_color=fff&icon_color=B8860B&text_color=9f9f9f&bg_color=151515&locale=pt-br"
+alt="Estatísticas Gerais"
+width="100%"
 height="180"
-style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #B8860B;"
 />
-</a>
 </div>
+</a>
+
 ---
 
 ## 🔗 Me encontre nas Redes Sociais
