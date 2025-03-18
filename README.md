@@ -34,10 +34,29 @@ Sou um apaixonado por programação, desenvolvimento de jogos e tecnologia. Semp
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayk0101&locale=pt-br&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats" />
-</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<!-- Linguagens Mais Utilizadas -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayk0101&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
+alt="Linguagens Mais Utilizadas"
+width="450"
+height="180"
+style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #B8860B;"
+/>
+</a>
 
+<!-- Distribuição de Repositórios por Linguagem -->
+<a href="https://github.com/Mayk0101">
+<img
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayk0101&theme=transparent&locale=pt-br"
+alt="Distribuição de Repositórios por Linguagem"
+width="450"
+height="180"
+style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: 2px solid #B8860B;"
+/>
+</a>
+</div>
 ---
 
 ## 🔗 Me encontre nas Redes Sociais
